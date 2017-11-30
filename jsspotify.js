@@ -1,4 +1,4 @@
-
+// made by robert pratl @robby.pratl on ig @robbypratl on twitter
 
 (function() {
     var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
